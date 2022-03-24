@@ -52,13 +52,6 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Welcome to Findz',
-          },
-
-          {
-            type: 'doc',
             docId: 'getting-started/create-a-page',
             position: 'left',
             label: 'Getting Started',
