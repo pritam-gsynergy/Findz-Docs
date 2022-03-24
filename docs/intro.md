@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ### What is Findz?
 
-<iframe width="600px" height="23%" src="https://www.youtube.com/embed/8jOEFVgUkqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="90%" height="400" src="https://www.youtube.com/embed/8jOEFVgUkqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Findz is a **collaborative bookmarking tool** that lets you create groups and **collect links, products, locations, contacts, media files, documents and files** (i.e., your finds) effortlessly with friends, family and colleagues to **plan vacations, schedule events, shop, and more; even when you are offline.**
 
