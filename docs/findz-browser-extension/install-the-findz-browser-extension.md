@@ -26,7 +26,7 @@ Findz will:
 - Automatically sort the bookmarks into the same collections and sub-collections as you had sorted them on your browser.
 - Add top images or favicons from the webpage to give you a visual cue about what the link is about.
 
-## Share the link directly on your groups
+### Share the link directly on your groups
 
 If you found a useful article about awesome places in Europe, share it directly on the Findz group with your buddies who're joining you for a Europe trip this summer.
 
@@ -35,7 +35,7 @@ Just select the group
 ```bash
 Select 
 ```
-## Sync with the app in realtime 
+### Sync with the app in realtime 
 
 When you add a new find, import browser bookmarks or share finds on your groups from the extension, Findz **instantly syncs** them up with the mobile app where you can **view, modify, share, delete or reorganize them.**
 
