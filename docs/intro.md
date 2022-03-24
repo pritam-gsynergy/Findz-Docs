@@ -31,6 +31,6 @@ Findz is available on the **Android Playstore** and **Apple Appstore.**
 
 Download the mobile app now.
 
-You can also download the **Findz' Safari** and **Chrome extension.** Simply add the Findz extension from the browser's extension store, pin it to the browser, and tap on it to add the current page to groups or collections of your choice.
+You can also download the **Findz' Safari** and **Chrome extension.** Simply add the Findz extension from the browser's extension store, pin it to the browser, and tap on it to add the current page to groups or collections of your choice. **[Learn more about the Findz' extension.](https://findz.app)**
 
 Download the browser extension now.
