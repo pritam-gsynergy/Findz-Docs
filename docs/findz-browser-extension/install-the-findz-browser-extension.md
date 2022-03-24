@@ -6,6 +6,8 @@ sidebar_position: 1
 
 ### What is the Findz’ browser extension?
 
+<iframe width="600px" height="23%" src="https://www.youtube.com/embed/OfW3deTZYxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The **Findz’ browser extensions** let you save and share bookmarks from Chrome and Safari on your laptop. 
 
 Simply add the Findz extension from the browser's extension store, pin it to the browser, and tap on it to add the current page to groups or collections of your choice.

@@ -67,33 +67,41 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Contact us',
             items: [
               {
-                label: 'Tutorial',
+                label: 'hi@findz.app',
+                href: 'mailto: hi@findz.app',
+              },
+              {
+                label: 'Alpharetta, Georgia',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Company',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Privacy Policy',
+                href: 'https://findz.app/privacy-policy/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Terms of Service',
+                href: 'https://findz.app/terms-of-service/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Careers@Findz',
+                href: 'https://findz.app/careers-at-findz/',
+              },
+              {
+                label: 'Business Collaboration',
+                href: 'https://findz.app/business-collaborations/',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Download Findz',
             items: [
               {
                 label: 'Blog',
