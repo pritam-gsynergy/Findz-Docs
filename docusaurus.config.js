@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Findz',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Get together to collect links, products and more from web, apps ',
   url: 'https://findz.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',

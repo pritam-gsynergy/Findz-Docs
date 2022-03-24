@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Welcome to Findz
+# Install the Findz' browser extension
 
-### What is Findz?
+### What is the Findz’ browser extension?
 
 The **Findz’ browser extensions** let you save and share bookmarks from Chrome and Safari on your laptop. 
 
