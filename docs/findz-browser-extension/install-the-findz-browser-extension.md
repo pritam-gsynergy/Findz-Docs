@@ -6,10 +6,8 @@ sidebar_position: 1
 
 ### What is the Findz’ browser extension?
 <details><summary>Click to watch video</summary>
-<iframe width="100%" height="30%" src="https://www.youtube.com/embed/OfW3deTZYxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe width="88%" height="23%" src="https://www.youtube.com/embed/OfW3deTZYxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 </details>
-
-
 
 The **Findz’ browser extensions** let you save and share bookmarks from Chrome and Safari on your laptop. 
 
