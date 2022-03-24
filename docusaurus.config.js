@@ -24,6 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
+          routeBasePath: '/',
           editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
@@ -53,13 +54,28 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Welcome to Findz',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            type: 'doc',
+            docId: 'getting-started/create-a-page',
+            position: 'left',
+            label: 'Getting Started',
+          },
+
+          {
+            type: 'doc',
+            docId: 'findz-mobile-app/manage-docs-versions',
+            position: 'left',
+            label: 'Findz Mobile App',
+          },
+
+          {
+            type: 'doc',
+            docId: 'findz-browser-extension/install-the-findz-browser-extension',
+            position: 'left',
+            label: 'Findz Browser Extension',
           },
         ],
       },
