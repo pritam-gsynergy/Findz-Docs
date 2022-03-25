@@ -59,7 +59,7 @@ const config = {
 
           {
             type: 'doc',
-            docId: 'findz-mobile-app/manage-docs-versions',
+            docId: 'findz-mobile-app/understand-findz-app-interface',
             position: 'left',
             label: 'Findz Mobile App',
           },
