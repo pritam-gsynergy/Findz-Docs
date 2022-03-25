@@ -2,42 +2,26 @@
 sidebar_position: 1
 ---
 
-# Create an Account on Findz
+# Create an account on Findz
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Findz is available both on **iOS and Android.** You can also use Findz to collect links from your browser using the **browser extension** available for Chrome and Safari.
 
-- `src/pages/index.js` -> `localhost:3000/`
-- `src/pages/foo.md` -> `localhost:3000/foo`
-- `src/pages/foo/bar.js` -> `localhost:3000/foo/bar`
+Before you start using Findz to collect links, products, files, places and more .... Here's **why do you need to create an account** before you can ....
 
-## Create your first React Page
 
-Create a file at `src/pages/my-react-page.js`:
+### Sign up using your Google account
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+This signup option is available to both **Andorid and iOS users.** 
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+### Sign up using your Apple ID:
 
-A new page is now available at `http://localhost:3000/my-react-page`.
+You can signup using your Apple ID **only on the iOS app.** 
 
-## Create your first Markdown Page
+### Sign up using your email:
 
-Create a file at `src/pages/my-markdown-page.md`:
+If you are are using a **different email provider** other than Apple or Google, or if you don't want to associate your Google and Apple accounts to Findz, then you can create an account using the **`Sign In With Email`** option.
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+This option is available both on the **Android and iOS apps.** 
 
-This is a Markdown page
-```
+You can also create an account from the browser extension. 
 
-A new page is now available at `http://localhost:3000/my-markdown-page`.
