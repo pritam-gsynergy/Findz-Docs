@@ -52,7 +52,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'getting-started/create-a-page',
+            docId: 'getting-started/create-a-findz-account',
             position: 'left',
             label: 'Getting Started',
           },
