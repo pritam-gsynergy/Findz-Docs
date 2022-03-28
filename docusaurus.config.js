@@ -65,7 +65,7 @@ const config = {
 
           {
             type: 'doc',
-            docId: 'findz-browser-extension/install-the-findz-browser-extension',
+            docId: 'findz-browser-extension/meet-the-findz-extension-interface',
             position: 'left',
             label: 'Findz Browser Extension',
           },
