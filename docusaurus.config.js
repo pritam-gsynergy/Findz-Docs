@@ -58,7 +58,7 @@ const config = {
 
           {
             type: 'doc',
-            docId: 'findz-mobile-app/understand-findz-app-interface',
+            docId: 'findz-mobile-app/meet-the-findz-app-interface',
             position: 'left',
             label: 'Findz Mobile App',
           },
